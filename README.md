@@ -1,16 +1,13 @@
-## Hi there 👋
+# NourEldin Ayman
 
-<!--
-**NoureldinAyman/NoureldinAyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on AI systems: voice agents, multi-agent systems, LLM fine-tuning and computer vision.
 
-Here are some ideas to get you started:
+Most of my professional work is private client code, so what's here comes from university and personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[AnatomyLLM](https://github.com/NoureldinAyman/AnatomyLLM):** evaluating and fine-tuning medical LLMs for my graduation project, which won first place out of 10+ teams.
+- **[RAG Context Optimizer](https://github.com/NoureldinAyman/RAG-Context-Optimizer-RL):** comparing DQN and PPO for choosing what context to give an LLM.
+- **[RepoSec](https://github.com/NoureldinAyman/RepoSec):** a team-built CLI that scans Git repositories for leaked secrets and vulnerable dependencies.
+- **[Drug Recommendation](https://github.com/NoureldinAyman/Drug-Recommendation):** predicting prescriptions from MIMIC-IV clinical data.
+- **[Graph Coloring](https://github.com/NoureldinAyman/Graph-Coloring):** solving the graph coloring problem with a genetic algorithm.
+
+[LinkedIn](https://www.linkedin.com/in/noureldin-ayman-ba8553300/)
